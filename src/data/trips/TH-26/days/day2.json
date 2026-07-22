@@ -1,0 +1,20 @@
+{
+    "schemaVersion": 2,
+    "dayNumber": 2,
+    "date": "2026-11-15",
+    "theme": "抵達與涉谷探索",
+    "blocks": [
+      {
+        "id": "b1_hotel_1",
+        "type": "hotel",
+        "title": "住宿停留",
+        "icon": "🏨",
+        "visible": true,
+        "collapsed": false,
+        "name": "澀谷東急卓越大飯店",
+        "checkIn": "15:00",
+        "bookingReference": "XYZ-98765",
+        "address": "東京都澀谷區澀谷3丁目21-3"
+      }
+    ]
+  }

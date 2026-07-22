@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 2,
+  "dayNumber": 3,
+  "date": "2026-10-26",
+  "dayOfWeek": "一",
+  "theme": "河口湖D2",
+  "blocks": [
+    {
+      "id": "b3_timeline_1",
+      "type": "timeline",
+      "title": "每日時間軸",
+      "visible": true,
+      "collapsed": false,
+      "dayLabel": "DAY 3 · 10/26（一）",
+      "mainTheme": "富士山河口湖 ➔ 高速巴士返回東京 ➔ 銀座 Check-in",
+      "items": [
+        {
+          "time": "09:00",
+          "event": "河口湖晨間散策與退房",
+          "description": "欣賞清晨富士山美景，辦理退房手續並準備前往河口湖站。"
+        },
+        {
+          "time": "11:00",
+          "event": "搭乘高速巴士返回東京",
+          "description": "於河口湖站搭乘高速巴士（Highway Bus）返回東京市區（東京站/新宿）。"
+        },
+        {
+          "time": "14:00",
+          "event": "抵達東京市區與轉乘",
+          "description": "抵達東京後，搭乘地鐵轉往銀座/築地區域。"
+        },
+        {
+          "time": "15:00",
+          "event": "銀座キャピタルホテル萌木 Check-in",
+          "description": "前往飯店辦理入住手續、放行李與短暫休息。"
+        },
+        {
+          "time": "18:00",
+          "event": "銀座市區自由探索與夜間散策",
+          "description": "自由探索銀座商圈、百貨購物與美食探店。"
+        }
+      ],
+      "notes": "移動備忘：高速巴士建議提早預約畫位；若遇週末或週一返程需留意高速公路路況與預留塞車緩衝時間。"
+    },
+    {
+      "id": "b3_transport_1",
+      "type": "transport",
+      "title": "回程交通",
+      "name": "河口湖 ➔ 東京/新宿 高速巴士",
+      "category": "高速巴士 / Highway Bus",
+      "departure": "河口湖站 (Kawaguchiko Sta.)",
+      "arrival": "東京站 / 新宿 Busta",
+      "time": "預計 11:00 發車 (車程約 2 小時)",
+      "notes": "預約制座位。乘車前請確認電子票券或實體車票。若遇路況塞車，車程可能延長至 2.5 ~ 3 小時。",
+      "mapUrl": "https://japanbusonline.com/"
+    },
+    {
+      "id": "b3_hotel_1",
+      "type": "hotel",
+      "title": "東京住宿",
+      "name": "銀座キャピタルホテル萌木",
+      "address": "〒104-0045 東京都中央區築地3-3-1",
+      "stayDuration": "入住 10/26 · 退房 10/27 · 1 晚",
+      "roomType": "豪華雙床房 4人使用\n(禁菸) x 1",
+      "bookingNumber": "NA",
+      "price": "¥38,400 (線上信用卡支付)",
+      "notes": "有樂町線「新富町駅」4號出口 & 日比谷線「築地駅」3號出口，步行約 1 分鐘。\n\n每日早上有 3 班免費觀光接駁巴士可到東京車站。",
+      "mapUrl": "https://maps.google.com/?q=Ginza+Capital+Hotel+Moegi"
+    },
+    {
+      "id": "b3_desc_1",
+      "type": "markdown",
+      "title": "富士山撤退與高速巴士注意事項",
+      "content": "### 🗻 富士山河口湖 ➔ 東京移動指南\n- **高速巴士劃位**：秋季賞楓季人潮較多，務必提前於 Japan Bus Online 或 Highwaybus.com 完成預約。\n- **路況與時間預留**：返程進東京的高速公路（中央道）易有車流，建議下午行程安排保持彈性。\n\n> 💡 **銀座飯店入住提醒**：\n> 1. 辦理入住時間為 15:00 後，退房時間為 11:00 前。\n> 2. 飯店鄰近築地場外市場，隔天清晨可直接步行前往享用早餐。"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+    "schemaVersion": 2,
+    "id": "new-trip-id-2026",
+    "title": "這裡填寫行程的大標題 (例如：2026 歐洲自由行)",
+    "startDate": "YYYY-MM-DD",
+    "endDate": "YYYY-MM-DD",
+    "dayFiles": [
+      "day1.json"
+    ],
+    "overview": {
+      "title": "行程副標題或當地地名 (例如：法比荷跨國深度遊)",
+      "subtitle": "副標題 (例如：建築攝影與博物館探索計畫)",
+      "coverImage": "/src/assets/images/default-cover.jpg",
+      "tags": ["自助", "攝影", "文化"],
+      "highlights": ["預期亮點 1", "預期亮點 2"],
+      "description": "一兩句關於此行程的宏觀簡介，會自動顯示在頂層總覽區。",
+      "map": null
+    },
+    "summary": {
+      "budget": { "total": 0, "currency": "TWD", "spent": 0 },
+      "hotels": [],
+      "transportation": { "pass": "例如：Eurail Pass" },
+      "distance": { "totalKm": 0 },
+      "photos": { "albumLink": "這裡可以貼上雲端相簿連結" },
+      "rating": { "overall": 5 },
+      "notes": "旅後心得與檢討備忘錄。"
+    }
+  }

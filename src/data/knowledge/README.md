@@ -1,0 +1,1 @@
+# Global Knowledge Directory\n\n獨立快照，不相互污染。
