@@ -1,0 +1,1 @@
+const t=2,c=2,e="2026-11-15",s="抵達與涉谷探索",o=[{id:"b1_hotel_1",type:"hotel",title:"住宿停留",icon:"🏨",visible:!0,collapsed:!1,name:"澀谷東急卓越大飯店",checkIn:"15:00",bookingReference:"XYZ-98765",address:"東京都澀谷區澀谷3丁目21-3"}],a={schemaVersion:2,dayNumber:2,date:e,theme:s,blocks:o};export{o as blocks,e as date,c as dayNumber,a as default,t as schemaVersion,s as theme};
