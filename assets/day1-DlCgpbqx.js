@@ -1,0 +1,14 @@
+const r=2,n=1,e="09/19",t="六",a="抵達清邁 ➔ Pe-La 旅店 Check-in ➔ 週六南門夜市與銀廟",i=[{id:"b1_timeline_1",type:"timeline",title:"每日時間軸",visible:!0,collapsed:!1,dayLabel:"DAY 1 · 09/19（六）",mainTheme:"台北 ➔ 清邁 (CNX) ➔ Pe-La Thapae ➔ 晚間週六南門夜市 (Wualai)",items:[{time:"16:20",event:"飛抵清邁國際機場 (CNX)",description:"辦理入境通關、提取行李。"},{time:"17:30",event:"搭車前往古城 Pe-La Thapae Hotel",description:"利用 Grab / Bolt 叫車或搭乘 Airport Taxi 前往塔佩門旁的住宿點。"},{time:"18:00",event:"Pe-La Thapae Boutique Hotel Check-in",description:"辦理入住手續、放置行李與稍作整頓休息。"},{time:"18:30",event:"大逛週六南門夜市 (Wualai Walking Street) & 銀廟",description:"前往瓦萊路體驗封街夜市，品嚐泰北香腸與在地小吃，並觀賞銀廟夜間點燈。"},{time:"21:30",event:"返回旅店休息",description:"返回 Pe-La 旅店，儲備體力迎接明日（9/20 週日）雙龍寺與週日大夜市。"}],notes:"入境提醒：請預先準備好泰國入境卡/電子通關資料。"},{id:"b1_flight_1",type:"flight",title:"去程航班",airline:"星宇航空",flightNumber:"JX751",departureAirport:"台北桃園 (TPE)",arrivalAirport:"清邁國際機場 (CNX)",departureTime:"13:20 起飛",arrivalTime:"16:20 抵達",time:"4h:00m",departureTerminal:"桃園 T1",arrivalTerminal:"CNX 國際航廈",notes:"入境提醒：抵達清邁後跟隨指示辦理入境與海關檢查，提取行李後可直接至出口叫車專區乘車。",mapUrl:"https://www.starlux-airlines.com/"},{id:"b1_transport_1",type:"transport",title:"機場接駁",name:"Grab / Bolt / Airport Taxi",category:"機場直達計程車/網約車",departure:"清邁國際機場 (CNX)",arrival:"Pe-La Thapae Boutique Hotel (古城東門)",time:"車程約 15 ~ 20 分鐘",notes:"使用 App 叫車車資約 150 泰銖，直接於指定 Exit 等候；或於機場櫃檯購買固定價格的 Airport Taxi (約 150 泰銖)。",mapUrl:"https://maps.google.com/?q=Chiang+Mai+International+Airport"},{id:"b1_hotel_1",type:"hotel",title:"清邁古城住宿",name:"Pe-La Thapae Boutique Hotel",address:"16/1 Chaiyapoom Rd, Lane 1, Chang Moi Sub-district, Mueang Chiang Mai District, Chiang Mai 50300",stayDuration:"入住 09/19 · 退房 09/24 · 共 5 晚",roomType:"精品雙人客房",bookingNumber:"已預訂",price:"已預訂",notes:"位於塔佩門（Tha Phae Gate）旁靜巷，地理位置極佳，步行即可抵達週日夜市與古城核心景點。",mapUrl:"https://maps.google.com/?q=Pe-La+Thapae+Boutique+Hotel"},{id:"b1_restaurant_1",type:"restaurant",title:"夜市小吃與地標",name:"週六南門夜市 (Wualai Walking Street) & 銀廟 (Wat Srisuphan)",category:"週六限定封街步行街 / 傳統手工藝與泰北小吃",notes:`主打泰北傳統手工藝品、銀器、皮革與豐富街頭美食。
+必看景點：銀廟 (Wat Srisuphan) 夜間點燈打光極美（主殿僅限男性進入，女性可在外拍照）。`,mapUrl:"https://maps.google.com/?q=Wualai+Walking+Street"},{id:"b1_desc_1",type:"markdown",title:"週六南門夜市首夜美食與實戰攻略",content:`### 🍢 週六南門夜市 (Wualai Walking Street) 實戰提案
+> 瓦萊路 (Wualai Road) 每週六傍晚封街變身為數公里的步行街，也是清邁銀器工藝的發源地，氛圍熱鬧且充滿手作質感。
+
+#### 😋 必吃泰北街頭美食推薦
+1. **泰北香腸 (Sai Ua / ໄສ້ອ່ອຍ)**：加入大量檸檬葉、香茅、紅蔥頭與泰北辣椒包餡，炭火直烤，香氣四溢。
+2. **泰北炸豬皮與青辣椒醬 (Nam Prik Num)**：酥脆不油膩的炸豬皮，沾上帶著炭香味的烤青辣椒醬，極度開胃。
+3. **泰式烤肉串 (Moo Ping) & 糯米飯**：用椰奶與香料醃漬的梅花豬肉串，配上熱騰騰的小包糯米飯，最在地流儀。
+4. **現剖椰子水 & 手工椰子冰淇淋**：盛裝於椰子殼中，搭配烤花生與糯米，解熱絕品。
+
+#### 💡 逛街與參觀策略
+- **銀廟 (Wat Srisuphan)**：位於夜市巷弄內，是世界上第一座由手打純銀與鋅打造的佛寺，夜間打上藍紫色燈光後光彩奪目。
+- **購物議價**：手作工藝品與銀飾質感極佳，適度客氣地詢問折扣即可（通常泰國夜市開價相當實惠）。
+- **交通避堵**：回程若雙條車/TukTuk 塞車，可稍微步行出瓦萊路外圍再使用 Grab / Bolt 叫車。`}],o={schemaVersion:2,dayNumber:1,date:e,dayOfWeek:t,theme:a,blocks:i};export{i as blocks,e as date,n as dayNumber,t as dayOfWeek,o as default,r as schemaVersion,a as theme};
